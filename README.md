@@ -9,4 +9,8 @@ Se aplicaron diferentes metodologias para generar los laberintos ya sea DFS, Kru
 
 Se deben de modificar las preferencias de Processing aumentando la Ram que utiliza como minimo a 1024MB.
 
-Segunod se debe de instalar las librerias de Sound para el uso de los sonidos que tiene implementadas la aplicacion.
+Segundo se debe de instalar las librerias de Sound para el uso de los sonidos que tiene implementadas la aplicacion.
+
+# Para crear la aplicacion.
+
+No me acuerdo XD 
